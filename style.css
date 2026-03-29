@@ -216,3 +216,7 @@ a {
 .dark-font {
     color: #101010;
 }
+
+.underline {
+    text-decoration: underline;
+}
